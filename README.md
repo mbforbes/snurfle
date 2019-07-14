@@ -3,6 +3,10 @@
 A joke single-use website as a birthday present. Generic business. Much synergy.
 Very technology.
 
+![snurfle screen 1](snurfle-1.png)
+
+![snurfle screen 2](snurfle-2.png)
+
 ## template README:
 
 Solid State by HTML5 UP
